@@ -7,6 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Я изучаю код на протяжении 5 лет, начинал с чего-то простенького (основ всего) - HTML, но нашел свое призвание в разработке чего-то большего...
 
 * 🌍  I'm based in Moscow
+* 🖥️  See my portfolio at [about](http://disk.yandex.ru/i/uWEw1aEVS_MYMg)
 * ✉️  You can contact me at [fedorgubarev07@gmail.com](mailto:fedorgubarev07@gmail.com)
 * 🧠  I'm learning REST API, Selenide, .NET Framework
 * ⚡  И многое другое, о чем я могу рассказать лично.
