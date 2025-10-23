@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedor
 =============================================================================================================================
 
-Разработчик ПО и не только
+Software developer and more
 --------------------------
 
-Я изучаю код на протяжении 5 лет, начинал с чего-то простенького (основ всего) - HTML, но нашел свое призвание в разработке чего-то большего...
+I've been learning code for 5 years, starting with something simple (the basics of everything) - HTML, but I've found my calling in developing something bigger...
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [about](https://disk.yandex.ru/i/zCOxMKpK7VOMoA)
