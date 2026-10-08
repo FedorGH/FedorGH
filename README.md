@@ -7,7 +7,6 @@ Software developer and more
 I've been learning code for 5 years, starting with something simple (the basics of everything) - HTML, but I've found my calling in developing something bigger...
 
 * 🌍  I'm based in Moscow
-* 🖥️  See my portfolio at [about](https://disk.yandex.ru/i/zCOxMKpK7VOMoA)
 * ✉️  You can contact me at [fedorgubarev07@gmail.com](mailto:fedorgubarev07@gmail.com)
 * 🧠  I'm learning REST API, Selenide, .NET Framework
 * ⚡  И многое другое, о чем я могу рассказать лично.
