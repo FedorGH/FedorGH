@@ -9,7 +9,7 @@ I've been learning code for 5 years, starting with something simple (the basics 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [fedorgubarev07@gmail.com](mailto:fedorgubarev07@gmail.com)
 * 🧠  I'm learning REST API, Selenide, .NET Framework
-* ⚡  И многое другое, о чем я могу рассказать лично.
+* ⚡  And much more that I can tell you about in person.
 
 ### Skills
 
